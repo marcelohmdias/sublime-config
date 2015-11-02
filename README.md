@@ -130,7 +130,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 ### Obs
 
-> Caso utilize o gerenciador NVM, utilize seguinte comando, para criar um alias do node:
+> Caso utilize o gerenciador [NVM](https://github.com/creationix/nvm), utilize seguinte comando, para criar um alias do node:
 > ```
 > ln -s -f /Users/#{username}/.nvm/versions/#{nodeVersion}/bin/node /usr/local/bin/node
 > ```
