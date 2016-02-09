@@ -41,7 +41,6 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [HTML5](https://packagecontrol.io/packages/HTML5)
 - [Jade](https://packagecontrol.io/packages/Jade)
 - [JavaScript Next](https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax)
-- [jQuery](https://packagecontrol.io/packages/jQuery)
 - [LESS](https://packagecontrol.io/packages/LESS)
 - [Markdown​Editing](https://packagecontrol.io/packages/MarkdownEditing)
 - [Sass](https://packagecontrol.io/packages/Sass)
@@ -104,6 +103,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [Javascript Beautify](https://packagecontrol.io/packages/Javascript%20Beautify) =  Permite o uso de atalhos para identação do Javascript;
 - [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) = Complementos e snippets para Javascript;
 - [JavaScript & Node​JS Snippets](https://packagecontrol.io/packages/JavaScript%20&%20NodeJS%20Snippets) = Snippets para JS e Node;
+- [jQuery](https://packagecontrol.io/packages/jQuery) - Complementos para JQuery;
 
 
 ### Plugins para Python
@@ -125,6 +125,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [Live​Style](https://packagecontrol.io/packages/LiveStyle) = Recarega automaticamente a página ao editar o CSS;
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) = Pré-visualização dos arquivos Markdown;
 - [PlainTasks](https://packagecontrol.io/packages/PlainTasks) = Lista de tarefas;
+- [Run Apps](https://packagecontrol.io/packages/Run%20Apps) = Permite através de comando abrr arquivos em outros programas;
 - [TrailingSpaces](https://packagecontrol.io/packages/TrailingSpaces) = Destaca com uma cor rosa espaços inúteis;
 - [View In Browser](https://packagecontrol.io/packages/View%20In%20Browser) = Abre o arquivo em algum navegador.
 
@@ -133,6 +134,6 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 > Caso utilize o gerenciador [NVM](https://github.com/creationix/nvm), utilize seguinte comando, para criar um alias do node:
 > ```
-> ln -s -f ~/.nvm/versions/#{nodeVersion}/bin/node /usr/local/bin/node
-> ln -s -f ~/.nvm/versions/#{nodeVersion}/bin/npm /usr/local/bin/npm
+> ln -s -f ~/.nvm/versions/nodeVersion/bin/node /usr/local/bin/node
+> ln -s -f ~/.nvm/versions/nodeVersion/bin/npm /usr/local/bin/npm
 > ```
