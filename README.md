@@ -114,6 +114,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 ### Outros
 
+- [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete?__s=kxwizasuqyiboujuchnz) = Estende o autocomplete padrão para localizar correspondências em todos os arquivos abertos;
 - [AlignTab](https://packagecontrol.io/packages/AlignTab) = Permite alinhar o texto a partir de um caracter específico;
 - [AutoFileName](https://packagecontrol.io/packages/AutoFileName) = Permite que o sublime reconheça os arquivos dos diretórios do projeto;
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter) = Define marcação entre blocos: `<tag></tag>`, `""`, `''`, `[]`, `{}` e `()`;
@@ -132,5 +133,6 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 > Caso utilize o gerenciador [NVM](https://github.com/creationix/nvm), utilize seguinte comando, para criar um alias do node:
 > ```
-> ln -s -f /Users/#{username}/.nvm/versions/#{nodeVersion}/bin/node /usr/local/bin/node
+> ln -s -f ~/.nvm/versions/#{nodeVersion}/bin/node /usr/local/bin/node
+> ln -s -f ~/.nvm/versions/#{nodeVersion}/bin/npm /usr/local/bin/npm
 > ```
