@@ -126,6 +126,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) = Pré-visualização dos arquivos Markdown;
 - [PlainTasks](https://packagecontrol.io/packages/PlainTasks) = Lista de tarefas;
 - [Run Apps](https://packagecontrol.io/packages/Run%20Apps) = Permite através de comando abrr arquivos em outros programas;
+- [Terminal](https://packagecontrol.io/packages/Terminal#custom-parameters) - Facilita a abertura do Terminal;
 - [TrailingSpaces](https://packagecontrol.io/packages/TrailingSpaces) = Destaca com uma cor rosa espaços inúteis;
 - [View In Browser](https://packagecontrol.io/packages/View%20In%20Browser) = Abre o arquivo em algum navegador.
 
