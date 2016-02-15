@@ -128,7 +128,8 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [Run Apps](https://packagecontrol.io/packages/Run%20Apps) = Permite através de comando abrr arquivos em outros programas;
 - [Terminal](https://packagecontrol.io/packages/Terminal#custom-parameters) - Facilita a abertura do Terminal;
 - [TrailingSpaces](https://packagecontrol.io/packages/TrailingSpaces) = Destaca com uma cor rosa espaços inúteis;
-- [View In Browser](https://packagecontrol.io/packages/View%20In%20Browser) = Abre o arquivo em algum navegador.
+- [View In Browser](https://packagecontrol.io/packages/View%20In%20Browser) = Abre o arquivo em algum navegador;
+- [WakaTime](https://packagecontrol.io/packages/WakaTime) = Gera métricas de utilização do sublime.
 
 
 ### Obs
