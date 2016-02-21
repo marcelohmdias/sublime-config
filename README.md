@@ -34,7 +34,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 ### Sintaxe e linguagens
 
-- [Coffee​Script](https://packagecontrol.io/packages/CoffeeScript)
+- [CoffeeScript](https://packagecontrol.io/packages/CoffeeScript)
 - [CSS3](https://packagecontrol.io/packages/CSS3)
 - [Djaneiro](https://packagecontrol.io/packages/Djaneiro)
 - [EJS](https://packagecontrol.io/packages/EJS)
@@ -42,7 +42,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [Jade](https://packagecontrol.io/packages/Jade)
 - [JavaScript Next](https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax)
 - [LESS](https://packagecontrol.io/packages/LESS)
-- [Markdown​Editing](https://packagecontrol.io/packages/MarkdownEditing)
+- [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
 - [Sass](https://packagecontrol.io/packages/Sass)
 - [Stylus](https://packagecontrol.io/packages/Stylus)
 - [TypeScript](https://packagecontrol.io/packages/TypeScript)
@@ -51,7 +51,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 ### Referências
 
 - [Can I Use](https://packagecontrol.io/packages/Can%20I%20Use) = Realiza pesquisas no site Can i use;
-- [Intelli​Docs](https://packagecontrol.io/packages/IntelliDocs) = Adiciona documentação em algumas linguagens;
+- [IntelliDocs](https://packagecontrol.io/packages/IntelliDocs) = Adiciona documentação em algumas linguagens;
 - [Zeal](https://packagecontrol.io/packages/Zeal) = Busca da documentação pelo app Zeal Doc.
 
 
@@ -64,7 +64,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 ### Sidebar e tabs
 
-- [File​Browser](https://packagecontrol.io/packages/FileBrowser) = Cria um novo sidebar;
+- [FileBrowser](https://packagecontrol.io/packages/FileBrowser) = Cria um novo sidebar;
 - [Open Folder](https://packagecontrol.io/packages/Open%20Folder) = Permite abrir o diretório através do arquivo selecionado no sidebar;
 - [SidebarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) = Novas funções para o sidebar;
 - [TabsExtra](https://packagecontrol.io/packages/TabsExtra) = Novas funções nas abas.
@@ -89,11 +89,12 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [Gutter Color](https://packagecontrol.io/packages/Gutter%20Color) = Exibe a cor na lateral da linha;
 - [Hex-to-RGBA](https://packagecontrol.io/packages/Hex-to-RGBA) = Converte HEX para RGBA;
 - [Perfectionist](https://packagecontrol.io/packages/Perfectionist) = Identação para codigo CSS;
-- [Px​To​Em](https://packagecontrol.io/packages/PxToEm?__s=kxwizasuqyiboujuchnz) = Converte px para em no css.
+- [PxToEm](https://packagecontrol.io/packages/PxToEm?__s=kxwizasuqyiboujuchnz) = Converte px para em no css.
 
 
 ### Plugins para HTML
 
+- [Goto-CSS-Declaration](https://packagecontrol.io/packages/Goto-CSS-Declaration) = Permite acessar a classe do CSS através de comando no HTML (requer tela em duas colunas);
 - [HTMLAttributes](https://packagecontrol.io/packages/HTMLAttributes) = Completes para atributos de tags HTMLs;
 - [HTMLBeautify](https://packagecontrol.io/packages/HTMLBeautify) = Permite o uso de atalhos para identação do HTML;
 
@@ -102,14 +103,14 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 - [Javascript Beautify](https://packagecontrol.io/packages/Javascript%20Beautify) =  Permite o uso de atalhos para identação do Javascript;
 - [JavaScript Completions](https://packagecontrol.io/packages/JavaScript%20Completions) = Complementos e snippets para Javascript;
-- [JavaScript & Node​JS Snippets](https://packagecontrol.io/packages/JavaScript%20&%20NodeJS%20Snippets) = Snippets para JS e Node;
+- [JavaScript & NodeJS Snippets](https://packagecontrol.io/packages/JavaScript%20&%20NodeJS%20Snippets) = Snippets para JS e Node;
 - [jQuery](https://packagecontrol.io/packages/jQuery) - Complementos para JQuery;
 
 
 ### Plugins para Python
 
 - [Jedi - Python autocompletion](https://packagecontrol.io/packages/Jedi%20-%20Python%20autocompletion) = Complementos e autocompletes para a linguagem python;
-- [Sublime​Python​IDE](https://packagecontrol.io/packages/SublimePythonIDE) = Complementos para python;
+- [SublimePythonIDE](https://packagecontrol.io/packages/SublimePythonIDE) = Complementos para python;
 
 
 ### Outros
@@ -122,7 +123,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [Google Search](https://packagecontrol.io/packages/Google%20Search) = Permite acesso ao buscador do Google direto do Sublime;
 - [Inc-Dec-Value](https://packagecontrol.io/packages/Inc-Dec-Value) = Permite aumentar ou diminuir valores, além de, mudar de caixa alta para caixa baixa com teclado;
 - [IndentGuides](https://packagecontrol.io/packages/IndentGuides) = Cria uma linha de guia de identação nas tags;
-- [Live​Style](https://packagecontrol.io/packages/LiveStyle) = Recarega automaticamente a página ao editar o CSS;
+- [LiveStyle](https://packagecontrol.io/packages/LiveStyle) = Recarega automaticamente a página ao editar o CSS;
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) = Pré-visualização dos arquivos Markdown;
 - [PlainTasks](https://packagecontrol.io/packages/PlainTasks) = Lista de tarefas;
 - [Run Apps](https://packagecontrol.io/packages/Run%20Apps) = Permite através de comando abrr arquivos em outros programas;
