@@ -77,7 +77,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [Git](https://packagecontrol.io/packages/Git) = Pluging de integração entre sublime e git;
 - [GitGutter](https://packagecontrol.io/packages/GitGutter) = Mostra ícones nas laterais das linhas alteradas;
 - [GitHub Tools](https://packagecontrol.io/packages/Github%20Tools) = Complementos para o Github;
-- [SideBarGit](https://packagecontrol.io/packages/SideBarGit) = Adiciona comando do Git ao SideBar.
+- [SideBarGit](https://packagecontrol.io/packages/SideBarGit) = Adiciona commando do Git ao SideBar.
 - [Sublimerge Pro](https://packagecontrol.io/packages/Sublimerge%20Pro) = Permite a correta visualização das mudanças dos arquivos;
 
 
@@ -94,7 +94,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 ### Plugins para HTML
 
-- [Goto-CSS-Declaration](https://packagecontrol.io/packages/Goto-CSS-Declaration) = Permite acessar a classe do CSS através de comando no HTML (requer tela em duas colunas);
+- [Goto-CSS-Declaration](https://packagecontrol.io/packages/Goto-CSS-Declaration) = Permite acessar a classe do CSS através de commando no HTML (requer tela em duas colunas);
 - [HTMLAttributes](https://packagecontrol.io/packages/HTMLAttributes) = Completes para atributos de tags HTMLs;
 - [HTMLBeautify](https://packagecontrol.io/packages/HTMLBeautify) = Permite o uso de atalhos para identação do HTML;
 
@@ -126,7 +126,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 - [LiveStyle](https://packagecontrol.io/packages/LiveStyle) = Recarega automaticamente a página ao editar o CSS;
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview) = Pré-visualização dos arquivos Markdown;
 - [PlainTasks](https://packagecontrol.io/packages/PlainTasks) = Lista de tarefas;
-- [Run Apps](https://packagecontrol.io/packages/Run%20Apps) = Permite através de comando abrr arquivos em outros programas;
+- [Run Apps](https://packagecontrol.io/packages/Run%20Apps) = Permite através de commando abrr arquivos em outros programas;
 - [Terminal](https://packagecontrol.io/packages/Terminal#custom-parameters) - Facilita a abertura do Terminal;
 - [TrailingSpaces](https://packagecontrol.io/packages/TrailingSpaces) = Destaca com uma cor rosa espaços inúteis;
 - [View In Browser](https://packagecontrol.io/packages/View%20In%20Browser) = Abre o arquivo em algum navegador;
@@ -135,7 +135,7 @@ Esses são alguns dos plugins que utilizo para configurar o **Sublime Text 3**.
 
 ### Obs
 
-> Caso utilize o gerenciador [NVM](https://github.com/creationix/nvm), utilize seguinte comando, para criar um alias do node:
+> Caso utilize o gerenciador [NVM](https://github.com/creationix/nvm), utilize seguinte commando, para criar um alias do node:
 > ```
 > ln -s -f ~/.nvm/versions/nodeVersion/bin/node /usr/local/bin/node
 > ln -s -f ~/.nvm/versions/nodeVersion/bin/npm /usr/local/bin/npm
